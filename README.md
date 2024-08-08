@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TechyDebi
+- 👋 Hi, I’m @TechieDebi
 - 👀 I’m interested in Singing, Classical Dancing, Practising British English, Tech Games
 - 🌱 I’m currently learning JAVA, .Net, Testing, SAP, Oracle
 - 💞️ I’m looking to collaborate on EazyBytes
